@@ -41,6 +41,9 @@ For a successful login, there are two requirements listed below.
 
 ## Data Visualization using Oracle Apex
 By developing SQL queries and using Oracle APex Application - Page Designer, I designed and developed an appealing dashboard to illustrate trends.
+This dashboard provides an insightful breakdown of the percentage of searches in the United States for the terms 'Midjourney', 'Stable Diffusion', and 'DALL-E' since January 2022.
+
+
 
 ## Dashboard Design
 ![Screenshot 2024-06-11 at 1 00 50 AM](https://github.com/yonci09/Oracle_Apex/assets/126642768/95b81f11-9215-44e4-b5bc-c60441f54e7c)

@@ -1,6 +1,6 @@
 
 # Oracle_Apex Web-Application Development
-
+This project explores trends in how people search using generative AI in the United States.
 
 ## Used Programming Languages
 
@@ -10,13 +10,14 @@
 - SQL
 
 ## Data source
-From the Data World website, a free source raw data file(CSV) was used for this project.
+I got the data from a free website called Data World.
+
+Source raw data file: (CSV) 
 
 -  https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states
 
-Data was cleaned, analyzed, and transformed into an Oracle Database successfully.
-
-I created a new table called TBL_SEARCH_PRC to store generative AI search trends data. For this I used SQL.
+I successfully cleaned, analyzed, and transformed the data into an Oracle Database.
+I used SQL to create a new table called TBL_SEARCH_PRC to store generative AI search trends data
 
 ## Database
 
